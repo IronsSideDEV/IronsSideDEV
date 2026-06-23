@@ -60,3 +60,32 @@ impl Ironside {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+### 🍕 [iPizzaria](https://github.com/IronsSideDEV/ipizzaria)
+> Cardápio digital com carrinho de compras e pedido direto via WhatsApp. Cliente escolhe os itens, coloca o endereço e finaliza — a mensagem chega pronta pro dono. Já em produção e gerando vendas.
+
+`React` `TypeScript` `Vite` `WhatsApp API`
+
+---
+
+### 🖥️ [IronDesk](https://github.com/IronsSideDEV/irondesk)
+> ERP/PDV completo com controle de estoque, frente de caixa e impressão de cupom. Sistema real pra comércios que precisam de controle sem complicação.
+
+`React` `TypeScript` `Bun` `PDV`
+
+---
+
+### 🛋️ [Lumora CRM](https://github.com/IronsSideDEV/lumora-crm)
+> CRM de agendamento e controle para empresas de higienização de estofados. Gestão de clientes, histórico de serviços e agenda integrada.
+
+`TypeScript` `React` `CRM`
+
+---
