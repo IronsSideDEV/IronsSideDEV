@@ -20,6 +20,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Make Snake Red
+        run: |
+          sed -i 's/#9e4c98/#ff2020/g' dist/github-contribution-grid-snake-dark.svg || true
+          sed -i 's/#b347ff/#ff2020/g' dist/github-contribution-grid-snake-dark.svg || true
+          sed -i 's/#7c3aed/#ff2020/g' dist/github-contribution-grid-snake-dark.svg || true
+          sed -i 's/purple/#ff2020/g' dist/github-contribution-grid-snake-dark.svg || true
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
