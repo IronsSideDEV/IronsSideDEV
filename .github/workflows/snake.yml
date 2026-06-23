@@ -5,9 +5,6 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -26,11 +23,21 @@ jobs:
 
       - name: Make Snake Red
         run: |
-          sed -i 's/#39d353/#ff2020/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#26a641/#ff2020/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#006d32/#ff2020/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#0e4429/#ff2020/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#9be9a8/#ff2020/g' dist/github-contribution-grid-snake-dark.svg
+          cp dist/github-contribution-grid-snake-dark.svg snake.svg
+
+          sed 's/#39d353/#ff2020/g' snake.svg > temp.svg
+          mv temp.svg snake.svg
+
+          sed 's/#26a641/#ff2020/g' snake.svg > temp.svg
+          mv temp.svg snake.svg
+
+          sed 's/#006d32/#ff2020/g' snake.svg > temp.svg
+          mv temp.svg snake.svg
+
+          sed 's/#0e4429/#ff2020/g' snake.svg > temp.svg
+          mv temp.svg snake.svg
+
+          mv snake.svg dist/github-contribution-grid-snake-dark.svg
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
