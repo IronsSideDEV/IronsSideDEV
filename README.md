@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0,0,0&height=80&text=IRONSIDE&fontSize=70&fontColor=FF0000&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0,0,0&height=90&text=IRONSIDE&fontSize=85&fontColor=FF003C&fontAlignY=50" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF2020&center=true&vCenter=true&width=700&lines=Bots%2C+interfaces+e+sistemas+que+funcionam+de+verdade." alt="Typing SVG" />
 
