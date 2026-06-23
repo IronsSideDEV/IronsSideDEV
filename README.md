@@ -1,11 +1,18 @@
 <div align="center">
 
+<img src="assets/ironside-banner.png" alt="IronsideDEV Banner" width="100%" />
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0,0,0&height=90&text=IRONSIDE&fontSize=85&fontColor=FF003C&fontAlignY=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF2020&center=true&vCenter=true&width=700&lines=Bots%2C+interfaces+e+sistemas+que+funcionam+de+verdade." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=FF2020&center=true&vCenter=true&width=850&lines=%3E+Bots%2C+interfaces+e+sistemas+que+funcionam+de+verdade.;%3E+Transformando+ideias+em+c%C3%B3digo.;%3E+Automa%C3%A7%C3%A3o+com+impacto.;%3E+Construindo+sistemas+que+escalam." />
 
-![Profile Views](https://komarev.com/ghpvc/?username=IronsSideDEV&color=FF2020&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/IronsSideDEV?color=FF2020&style=flat-square&label=FOLLOWERS)
+<br>
+
+![](https://komarev.com/ghpvc/?username=IronsSideDEV&color=FF2020&style=flat-square&label=PROFILE+VIEWS)
+
+![](https://img.shields.io/github/followers/IronsSideDEV?color=FF2020&style=flat-square&label=FOLLOWERS)
 
 </div>
 
@@ -23,16 +30,16 @@ impl Ironside {
         Self {
             role: "Bot Developer & Frontend Builder",
             primary_stack: "TypeScript + React + Bun 🐰",
-            superpower: "Turning ideas into working things, fast",
+            superpower: "Transforming ideas into working systems",
         }
     }
 
     pub fn current_mission(&self) -> &str {
-        "Building Discord & Telegram bots that scale"
+        "Building bots, interfaces and automation that scale"
     }
 
     pub fn philosophy(&self) -> &str {
-        "If it works and solves the problem, ship it."
+        "Code with purpose. Automation with impact."
     }
 }
 ```
@@ -43,21 +50,31 @@ impl Ironside {
 
 ## 🤖 Bots & Automation
 
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-8B0000?style=for-the-badge&logo=discord&logoColor=white)
+
+![Telegram](https://img.shields.io/badge/Telegram-B22222?style=for-the-badge&logo=telegram&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-990000?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ## ⚛️ Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![React](https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-B22222?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Vite-990000?style=for-the-badge&logo=vite&logoColor=white)
+
+![Bun](https://img.shields.io/badge/Bun-550000?style=for-the-badge&logo=bun&logoColor=white)
+
+---
 
 ## 🧠 Logic & Scripting
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-CC0000?style=for-the-badge&logo=javascript&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-990000?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -65,35 +82,37 @@ impl Ironside {
 
 <div align="center">
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 </div>
 
-### 🍕 [iPizzaria](https://github.com/IronsSideDEV/ipizzaria)
-> Cardápio digital com carrinho de compras e pedido direto via WhatsApp. Cliente escolhe os itens, coloca o endereço e finaliza — a mensagem chega pronta pro dono. Já em produção e gerando vendas.
+## 🍕 [iPizzaria](https://github.com/IronsSideDEV/ipizzaria)
+
+> Cardápio digital com carrinho de compras e pedido direto via WhatsApp. Cliente escolhe os itens, coloca o endereço e finaliza. A mensagem chega pronta para o estabelecimento.
 
 `React` `TypeScript` `Vite` `WhatsApp API`
 
 ---
 
-### 🖥️ [IronDesk](https://github.com/IronsSideDEV/irondesk)
-> ERP/PDV completo com controle de estoque, frente de caixa e impressão de cupom. Sistema real pra comércios que precisam de controle sem complicação.
+## 🖥️ [IronDesk](https://github.com/IronsSideDEV/irondesk)
+
+> ERP/PDV completo com controle de estoque, frente de caixa e impressão de cupom. Sistema construído para operações reais.
 
 `React` `TypeScript` `Bun` `PDV`
 
 ---
 
-### 🛋️ [Lumora CRM](https://github.com/IronsSideDEV/lumora-crm)
-> CRM de agendamento e controle para empresas de higienização de estofados. Gestão de clientes, histórico de serviços e agenda integrada.
+## 🛋️ [Lumora CRM](https://github.com/IronsSideDEV/lumora-crm)
+
+> CRM de agendamento e gestão para empresas de higienização de estofados. Controle de clientes, histórico de serviços e agenda integrada.
 
 `TypeScript` `React` `CRM`
 
 ---
----
 
 <div align="center">
 
-## 🐍 My Contributions
+# 🐍 My Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/IronsSideDEV/IronsSideDEV/output/github-contribution-grid-snake-dark.svg)
 
