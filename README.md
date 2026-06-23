@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1&pause=99999&color=FF2020&center=true&vCenter=true&width=600&height=80&lines=IRONSIDE" alt="IRONSIDE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=IRONSIDE&fontSize=60&fontColor=FF0000&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=50&pause=1000&color=FF2020&center=true&vCenter=true&width=700&height=40&lines=Bots%2C+interfaces+e+sistemas+que+funcionam+de+verdade." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF2020&center=true&vCenter=true&width=700&lines=Bots%2C+interfaces+e+sistemas+que+funcionam+de+verdade." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IronsSideDEV&color=FF2020&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/IronsSideDEV?color=FF2020&style=flat-square&label=FOLLOWERS)
