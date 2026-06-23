@@ -89,3 +89,12 @@ impl Ironside {
 `TypeScript` `React` `CRM`
 
 ---
+---
+
+<div align="center">
+
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/IronsSideDEV/IronsSideDEV/output/github-contribution-grid-snake-dark.svg)
+
+</div>
